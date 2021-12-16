@@ -1,8 +1,8 @@
 {
-  "name": "sa-selfbot",
+  "name": "bodysuit",
   "version": "1.0.0",
-  "description": "@pato_",
-  "main": "pato.js",
+  "description": "@este bot es únicamente para el grupo de lectura rápida ",
+  "main": "alex.js",
   "directories": {
     "lib": "lib"
   },
@@ -41,7 +41,7 @@
     "yt-search": "^2.7.6"
   },
   "scripts": {
-    "start": "node pato",
+    "start": "node bodysuit",
     "test": "supervisor index"
   },
   "repository": {
@@ -51,7 +51,7 @@
   "keywords": [
     "Y"
   ],
-  "author": "@pato_",
+  "author": "@alex_garcia_",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Mr-Pato"
